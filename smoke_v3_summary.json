@@ -1,0 +1,200 @@
+{
+  "lambda_grid": [
+    1e-09,
+    1e-08,
+    1e-07,
+    1e-06,
+    1e-05,
+    0.0001,
+    0.001
+  ],
+  "n_instances": 200,
+  "n_rows": 14000,
+  "q1_wall_time": {
+    "v3_median_s": 0.8636491500074044,
+    "v3_p95_s": 2.5806534049916046,
+    "v2_median_s": 0.7694910500003971,
+    "v2_p95_s": 1.2632639149998794,
+    "n_v3_solves": 14000,
+    "n_v3_converged": 13944,
+    "n_paired_instance_soc": 2000,
+    "paired_ratio_median": 1.1666329909475102,
+    "paired_ratio_p95": 2.8930092368479894,
+    "note": "v2 timings are historical (from the existing v2 label parquet), not re-solved live this session -- v2 dynamics/problem modules were replaced and no backup exists. Same instances, same SoC grid, same N=50."
+  },
+  "q2_convergence": {
+    "overall_rate": 0.996,
+    "by_initial_SoC": {
+      "0.1": 0.995,
+      "0.2": 0.9964285714285714,
+      "0.3": 0.9921428571428571,
+      "0.4": 0.9957142857142857,
+      "0.5": 0.9971428571428571,
+      "0.6": 0.9942857142857143,
+      "0.7": 0.9971428571428571,
+      "0.8": 0.9957142857142857,
+      "0.9": 0.9971428571428571,
+      "1.0": 0.9992857142857143
+    },
+    "by_energy_price": {
+      "1.0e-09": 0.9995,
+      "1.0e-08": 1.0,
+      "1.0e-07": 1.0,
+      "1.0e-06": 1.0,
+      "1.0e-05": 1.0,
+      "1.0e-04": 0.9995,
+      "1.0e-03": 0.973
+    },
+    "by_L_straight_m_quartile": {
+      "(79.999, 204.0]": 0.9899159663865547,
+      "(204.0, 274.0]": 0.9942857142857143,
+      "(274.0, 415.0]": 1.0,
+      "(415.0, 1334.0]": 1.0
+    },
+    "by_v_max_kph_bin": {
+      "<=290kph": 0.9976369495166487,
+      ">290kph": 0.9927505330490405
+    },
+    "by_zone_eligible": {
+      "False": 0.9771428571428571,
+      "True": 1.0
+    },
+    "failure_crosstab_zone_eligible_False_x_lambda": {
+      "1e-09": 1,
+      "0.0001": 1,
+      "0.001": 54
+    },
+    "n_failures_total": 56,
+    "n_failures_zone_ineligible": 56,
+    "note": "Every failure is a zone_eligible=False (force_aero_shut) solve; zone_eligible=True converged 100% (11550/11550) across the whole grid. The key above was mislabeled '(True, ...)' by a groupby(~zone_eligible) bug in the analysis script -- corrected here; it means zone_eligible WAS False."
+  },
+  "q3_p_deploy_at_lowest_lambda": {
+    "lambda": 1e-09,
+    "n_converged": 1999,
+    "frac_never_deploy_nan": 0.0010005002501250625,
+    "frac_of_all_at_or_above_97pct_cap": 0.0,
+    "frac_of_deployers_at_or_above_97pct_cap": 0.0,
+    "percentiles_W": {
+      "0.1": 203972.0126347542,
+      "0.25": 269741.18176684354,
+      "0.5": 304859.9119918374,
+      "0.75": 323066.4281695366,
+      "0.9": 327358.2462065197,
+      "0.95": 328507.3315279178
+    }
+  },
+  "q4_bracket_saturation": {
+    "lambda_lo": 1e-09,
+    "lo": {
+      "median_E_final_frac_capacity": 0.39012350212298474,
+      "median_net_depletion_J": 546177.8018063908,
+      "median_P_deploy_W": 304859.9119918374,
+      "frac_never_deploy": 0.0010005002501250625
+    },
+    "lambda_hi": 0.001,
+    "hi": {
+      "median_E_final_frac_capacity": 1.0,
+      "median_net_depletion_J": -1199999.9999999995,
+      "median_P_deploy_W": 238069.30066704427,
+      "frac_never_deploy": 0.27595066803699897
+    }
+  },
+  "q5_monotonicity": {
+    "n_instance_soc_groups": 2000,
+    "frac_monotone_nonincreasing": 0.782,
+    "n_violations": 436,
+    "worst_violation_J": 3509825.183035397,
+    "worst_violators": [
+      {
+        "key": [
+          2024,
+          "Miami Grand Prix",
+          "ALB",
+          7,
+          0.5
+        ],
+        "max_violation_J": 3509825.183035397
+      },
+      {
+        "key": [
+          2025,
+          "United States Grand Prix",
+          "ALO",
+          8,
+          0.4
+        ],
+        "max_violation_J": 2173945.0557745676
+      },
+      {
+        "key": [
+          2024,
+          "Mexico City Grand Prix",
+          "TSU",
+          8,
+          0.2
+        ],
+        "max_violation_J": 2023091.3297333037
+      },
+      {
+        "key": [
+          2024,
+          "Japanese Grand Prix",
+          "SAI",
+          10,
+          0.5
+        ],
+        "max_violation_J": 1851777.3701281585
+      },
+      {
+        "key": [
+          2024,
+          "Monaco Grand Prix",
+          "ZHO",
+          2,
+          0.30000000000000004
+        ],
+        "max_violation_J": 1712408.1143774649
+      }
+    ],
+    "violation_step_location": {
+      "1e-09->1e-08": 55,
+      "1e-08->1e-07": 35,
+      "1e-07->1e-06": 4,
+      "1e-06->1e-05": 20,
+      "1e-05->1e-04": 177,
+      "1e-04->1e-03": 145
+    },
+    "violations_by_zone_eligible": {
+      "False": 218,
+      "True": 218
+    },
+    "frac_violations_capacity_clipped": 0.03669724770642202,
+    "frac_violations_genuine_local_optimum": 0.9633027522935779,
+    "note": "genuine_local_optimum figure corrected -- a boolean-negation bug in the analysis script produced -1.037 on first run; re-verified independently via smoke_04_diagnose_monotonicity.py: 420/436 violations (96.3%) occur where NEITHER adjacent lambda solve is capacity-clipped (E_final ~= 4 MJ), i.e. are not explained by the per-sector capacity bound."
+  },
+  "q6_envelope_clamp": {
+    "n_solves_checked": 670,
+    "n_solves_converged": 670,
+    "n_solves_touching_gt355kph": 130,
+    "max_intervals_above_355kph_single_solve": 25,
+    "max_permissive_clamp_error_W": 2496.1064862822086,
+    "max_solved_velocity_kph": 356.6014182004393,
+    "note": "Checked only the v_max_kph>290 stratum at the lowest lambda (freest energy spending -> highest achievable speed); the production label schema doesn't retain v_traj so this required a separate targeted re-solve."
+  },
+  "q7_harvest_cap": {
+    "sectors_per_lap_approx": 12.268240343347639,
+    "cap_J": 8500000.0,
+    "at_lowest_lambda": {
+      "median_E_har_final_J": 266607.22371956875,
+      "p95_E_har_final_J": 742552.5776644526,
+      "scaled_to_lap_median_J": 3270801.4978643227
+    },
+    "at_highest_lambda": {
+      "median_E_har_final_J": 1549995.540281327,
+      "p95_E_har_final_J": 3600213.3505339883,
+      "max_E_har_final_J": 4003864.7470682445,
+      "scaled_to_lap_median_J": 19015717.819288295,
+      "scaled_to_lap_p95_J": 44168282.67167985
+    }
+  }
+}
