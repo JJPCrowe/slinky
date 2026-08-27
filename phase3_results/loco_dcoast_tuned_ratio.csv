@@ -1,0 +1,25 @@
+rmse,mae,r2,n,circuit,target,model
+11.422875525448388,4.484725821226396,0.893172693109291,5250,Abu Dhabi Grand Prix,d_coast_optimal,twostage_ratio_tuned
+25.449147853582094,11.022474635375076,0.8259259292149985,3719,Australian Grand Prix,d_coast_optimal,twostage_ratio_tuned
+13.6487349923559,5.280957671020593,0.7864813055333189,3599,Austrian Grand Prix,d_coast_optimal,twostage_ratio_tuned
+21.103910139393307,6.744105420807735,0.7473824105383422,5633,Azerbaijan Grand Prix,d_coast_optimal,twostage_ratio_tuned
+13.039774159776599,5.837736279781612,0.8893137011269541,3828,Bahrain Grand Prix,d_coast_optimal,twostage_ratio_tuned
+29.488060806700005,10.563711655773155,0.7861847601923364,5858,Belgian Grand Prix,d_coast_optimal,twostage_ratio_tuned
+8.773156568857287,4.160179500296575,0.8854474945888586,5085,British Grand Prix,d_coast_optimal,twostage_ratio_tuned
+26.9165637093232,12.529380735558345,0.656686625541707,2797,Canadian Grand Prix,d_coast_optimal,twostage_ratio_tuned
+23.42799747638845,7.152222573318714,0.8172335878853153,4527,Chinese Grand Prix,d_coast_optimal,twostage_ratio_tuned
+11.559980766640429,3.958525991578801,0.8621198577584468,4560,Dutch Grand Prix,d_coast_optimal,twostage_ratio_tuned
+14.023071145234745,5.990499666500682,0.7610423989197503,5098,Emilia Romagna Grand Prix,d_coast_optimal,twostage_ratio_tuned
+10.832704209889869,4.638376007212316,0.8974423707400146,5240,Hungarian Grand Prix,d_coast_optimal,twostage_ratio_tuned
+26.91733571642073,16.22148086385641,0.32984463998981917,2795,Italian Grand Prix,d_coast_optimal,twostage_ratio_tuned
+9.101707909236373,4.354421046248946,0.8010987602122042,6217,Japanese Grand Prix,d_coast_optimal,twostage_ratio_tuned
+37.1845075489714,9.71969231054637,0.6435051591527545,4100,Las Vegas Grand Prix,d_coast_optimal,twostage_ratio_tuned
+13.942815521499925,4.355429016522745,0.8837279930755353,3007,Mexico City Grand Prix,d_coast_optimal,twostage_ratio_tuned
+17.749369845227083,5.5140591165312856,0.741663224907271,5060,Miami Grand Prix,d_coast_optimal,twostage_ratio_tuned
+11.40046863724096,2.802800308287192,0.8599412300663722,4755,Monaco Grand Prix,d_coast_optimal,twostage_ratio_tuned
+5.678962977504494,3.1398167008994893,0.9556628404134446,5999,Qatar Grand Prix,d_coast_optimal,twostage_ratio_tuned
+6.395925480124164,3.151275024508398,0.9327293843047119,7520,Saudi Arabian Grand Prix,d_coast_optimal,twostage_ratio_tuned
+11.088081618547305,4.381776857693914,0.9099087914548414,5330,Singapore Grand Prix,d_coast_optimal,twostage_ratio_tuned
+12.897611903110834,5.448802855415032,0.858730978170822,4120,Spanish Grand Prix,d_coast_optimal,twostage_ratio_tuned
+10.617302398514898,3.7849482976114452,0.9044821256884299,3568,São Paulo Grand Prix,d_coast_optimal,twostage_ratio_tuned
+15.49852520765491,5.009911378966329,0.7906951857842418,6576,United States Grand Prix,d_coast_optimal,twostage_ratio_tuned
