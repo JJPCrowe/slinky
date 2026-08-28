@@ -1,0 +1,4 @@
+target,wilcoxon_p,full_wins,n_folds,decision,mean_rmse_full,mean_rmse_geo
+P_deploy_mean_optimal,0.37475037574768066,15,24,geometry_only,23722.78900561261,23862.824522283725
+d_X_optimal,0.06464934349060059,15,24,geometry_only,1.1638521518619125,1.384271342477651
+d_coast_optimal,0.3165123462677002,14,24,geometry_only,23.182346628581413,23.51196551796456

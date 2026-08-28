@@ -1,0 +1,38 @@
+{
+  "system": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD",
+    "python": "3.14.0",
+    "cpu_count_logical": 16,
+    "thread_env_pinned_to_1": true,
+    "ram_gb": 7.9,
+    "cpu_count_physical": 8
+  },
+  "single_sample_ms": {
+    "median_ms": 25.197499999194406,
+    "p95_ms": 33.37509502016473,
+    "mean_ms": 26.583140000050964,
+    "n_repeats": 1200
+  },
+  "batched": {
+    "100": {
+      "total_s": 0.0358637000026647,
+      "per_sample_us": 358.637000026647
+    },
+    "1000": {
+      "total_s": 0.04792049998650327,
+      "per_sample_us": 47.92049998650327
+    },
+    "5000": {
+      "total_s": 0.11824089998845011,
+      "per_sample_us": 23.648179997690022
+    }
+  },
+  "ipopt_cold_start_s": {
+    "median_s": 0.6856440499977907,
+    "p95_s": 0.9125675900126241,
+    "mean_s": 0.8051333600014914,
+    "n_repeats": 20
+  },
+  "speedup_median_x": 27.210796706804707
+}

@@ -1,0 +1,501 @@
+year,gp,driver,sector_id
+2024,Saudi Arabian Grand Prix,HUL,5
+2024,Saudi Arabian Grand Prix,BEA,10
+2025,Saudi Arabian Grand Prix,HAM,9
+2024,Saudi Arabian Grand Prix,HAM,1
+2024,Saudi Arabian Grand Prix,NOR,6
+2024,Saudi Arabian Grand Prix,PER,9
+2024,Saudi Arabian Grand Prix,GAS,7
+2025,Saudi Arabian Grand Prix,RUS,1
+2025,Saudi Arabian Grand Prix,DOO,1
+2025,Saudi Arabian Grand Prix,STR,22
+2025,Saudi Arabian Grand Prix,GAS,8
+2024,Saudi Arabian Grand Prix,OCO,22
+2024,Saudi Arabian Grand Prix,STR,5
+2025,Saudi Arabian Grand Prix,ALO,4
+2025,Belgian Grand Prix,HUL,12
+2024,Belgian Grand Prix,TSU,3
+2024,Belgian Grand Prix,ZHO,14
+2024,Belgian Grand Prix,SAR,3
+2025,Belgian Grand Prix,LEC,3
+2025,Belgian Grand Prix,PIA,16
+2024,Belgian Grand Prix,BOT,14
+2024,Belgian Grand Prix,TSU,8
+2025,Belgian Grand Prix,OCO,3
+2025,Belgian Grand Prix,OCO,14
+2025,Belgian Grand Prix,HAD,6
+2024,Belgian Grand Prix,GAS,10
+2025,Belgian Grand Prix,SAI,16
+2025,Belgian Grand Prix,VER,15
+2025,Japanese Grand Prix,OCO,3
+2025,Japanese Grand Prix,PIA,4
+2025,Japanese Grand Prix,HAM,3
+2024,Japanese Grand Prix,VER,0
+2024,Japanese Grand Prix,OCO,12
+2025,Japanese Grand Prix,DOO,12
+2024,Japanese Grand Prix,RIC,0
+2024,Japanese Grand Prix,TSU,3
+2024,Japanese Grand Prix,GAS,9
+2025,Japanese Grand Prix,BOR,16
+2025,Japanese Grand Prix,SAI,1
+2025,Japanese Grand Prix,ALO,4
+2024,United States Grand Prix,HUL,3
+2025,United States Grand Prix,HAM,6
+2025,United States Grand Prix,LAW,4
+2025,United States Grand Prix,NOR,16
+2025,United States Grand Prix,LAW,16
+2025,United States Grand Prix,SAI,6
+2025,United States Grand Prix,RUS,15
+2024,United States Grand Prix,LEC,16
+2025,United States Grand Prix,LAW,6
+2024,United States Grand Prix,BOT,6
+2025,United States Grand Prix,HUL,6
+2024,United States Grand Prix,ZHO,4
+2024,Monaco Grand Prix,GAS,3
+2024,Monaco Grand Prix,VER,1
+2025,Monaco Grand Prix,PIA,1
+2025,Monaco Grand Prix,HAM,0
+2024,Monaco Grand Prix,NOR,1
+2025,Monaco Grand Prix,LEC,7
+2025,Monaco Grand Prix,ANT,1
+2024,Monaco Grand Prix,ZHO,10
+2024,Monaco Grand Prix,LEC,10
+2025,Monaco Grand Prix,NOR,13
+2025,British Grand Prix,STR,16
+2025,British Grand Prix,NOR,16
+2024,British Grand Prix,PIA,2
+2024,British Grand Prix,NOR,0
+2024,British Grand Prix,HAM,16
+2024,British Grand Prix,ALB,10
+2024,British Grand Prix,SAR,3
+2024,British Grand Prix,RUS,11
+2025,British Grand Prix,GAS,10
+2025,British Grand Prix,ANT,0
+2025,Singapore Grand Prix,HAD,5
+2025,Singapore Grand Prix,HUL,8
+2024,Singapore Grand Prix,ALB,5
+2025,Singapore Grand Prix,LEC,5
+2025,Singapore Grand Prix,BEA,14
+2025,Singapore Grand Prix,GAS,4
+2025,Singapore Grand Prix,HAD,12
+2025,Singapore Grand Prix,BOR,8
+2025,Singapore Grand Prix,ALO,4
+2024,Miami Grand Prix,SAI,14
+2025,Miami Grand Prix,SAI,3
+2024,Miami Grand Prix,HUL,5
+2024,Miami Grand Prix,ALB,1
+2024,Miami Grand Prix,HUL,3
+2025,Miami Grand Prix,ALO,3
+2025,Miami Grand Prix,ALB,5
+2025,Miami Grand Prix,HAD,5
+2024,Miami Grand Prix,RUS,3
+2024,Azerbaijan Grand Prix,HAM,13
+2025,Azerbaijan Grand Prix,BEA,15
+2024,Azerbaijan Grand Prix,RIC,0
+2024,Azerbaijan Grand Prix,NOR,13
+2025,Azerbaijan Grand Prix,VER,14
+2025,Azerbaijan Grand Prix,HAD,7
+2024,Azerbaijan Grand Prix,HUL,13
+2025,Azerbaijan Grand Prix,GAS,7
+2025,Azerbaijan Grand Prix,COL,7
+2025,United States Grand Prix,STR,13
+2024,United States Grand Prix,ALB,13
+2025,United States Grand Prix,GAS,13
+2025,United States Grand Prix,ALO,1
+2025,United States Grand Prix,OCO,1
+2025,United States Grand Prix,RUS,8
+2025,United States Grand Prix,BOR,8
+2025,United States Grand Prix,STR,8
+2024,United States Grand Prix,VER,1
+2025,Dutch Grand Prix,ANT,0
+2025,Dutch Grand Prix,PIA,6
+2024,Dutch Grand Prix,NOR,8
+2024,Dutch Grand Prix,RUS,0
+2025,Dutch Grand Prix,COL,8
+2024,Dutch Grand Prix,STR,11
+2025,Dutch Grand Prix,NOR,7
+2025,Dutch Grand Prix,ALO,7
+2025,Dutch Grand Prix,HUL,0
+2024,Italian Grand Prix,GAS,2
+2024,Italian Grand Prix,BOT,1
+2024,Italian Grand Prix,PIA,1
+2024,Italian Grand Prix,ALB,1
+2024,Italian Grand Prix,MAG,2
+2024,Italian Grand Prix,TSU,6
+2025,Italian Grand Prix,STR,6
+2024,Italian Grand Prix,LEC,2
+2024,Italian Grand Prix,PER,1
+2025,Qatar Grand Prix,BOR,13
+2024,Qatar Grand Prix,ALB,4
+2024,Qatar Grand Prix,SAI,4
+2025,Qatar Grand Prix,BEA,0
+2024,Qatar Grand Prix,VER,4
+2025,Qatar Grand Prix,LAW,0
+2024,Qatar Grand Prix,NOR,0
+2024,Qatar Grand Prix,ZHO,8
+2024,Qatar Grand Prix,ALO,8
+2024,Bahrain Grand Prix,TSU,10
+2024,Bahrain Grand Prix,HUL,7
+2024,Bahrain Grand Prix,VER,2
+2025,Bahrain Grand Prix,OCO,7
+2024,Bahrain Grand Prix,RIC,10
+2025,Bahrain Grand Prix,NOR,7
+2025,Bahrain Grand Prix,ANT,7
+2024,Bahrain Grand Prix,TSU,9
+2025,Bahrain Grand Prix,BEA,2
+2024,Canadian Grand Prix,MAG,6
+2024,Canadian Grand Prix,HUL,10
+2025,Canadian Grand Prix,HAD,6
+2024,Canadian Grand Prix,STR,11
+2025,Canadian Grand Prix,OCO,1
+2025,Canadian Grand Prix,VER,6
+2024,Canadian Grand Prix,PER,10
+2024,Canadian Grand Prix,LEC,10
+2024,Canadian Grand Prix,STR,8
+2024,Austrian Grand Prix,GAS,4
+2024,Austrian Grand Prix,RIC,4
+2025,Austrian Grand Prix,HUL,4
+2024,Austrian Grand Prix,MAG,4
+2025,Austrian Grand Prix,NOR,2
+2024,Austrian Grand Prix,ALB,0
+2025,Austrian Grand Prix,ALO,7
+2025,Austrian Grand Prix,ALB,2
+2025,Austrian Grand Prix,HUL,2
+2025,Hungarian Grand Prix,BEA,5
+2025,Hungarian Grand Prix,VER,5
+2024,Hungarian Grand Prix,NOR,14
+2025,Hungarian Grand Prix,HUL,7
+2024,Hungarian Grand Prix,LEC,7
+2025,Hungarian Grand Prix,ALO,10
+2025,Hungarian Grand Prix,STR,5
+2025,Hungarian Grand Prix,RUS,4
+2025,Hungarian Grand Prix,BOR,5
+2024,Emilia Romagna Grand Prix,PIA,3
+2024,Emilia Romagna Grand Prix,HAM,3
+2024,Emilia Romagna Grand Prix,RIC,14
+2024,Emilia Romagna Grand Prix,LEC,9
+2024,Emilia Romagna Grand Prix,OCO,12
+2024,Emilia Romagna Grand Prix,SAR,9
+2024,Emilia Romagna Grand Prix,NOR,0
+2024,Emilia Romagna Grand Prix,TSU,12
+2025,Emilia Romagna Grand Prix,OCO,7
+2025,Emilia Romagna Grand Prix,ANT,5
+2025,Emilia Romagna Grand Prix,PIA,5
+2025,Emilia Romagna Grand Prix,HUL,5
+2025,Emilia Romagna Grand Prix,RUS,17
+2025,Emilia Romagna Grand Prix,HUL,7
+2025,Emilia Romagna Grand Prix,PIA,6
+2025,Emilia Romagna Grand Prix,STR,15
+2024,Saudi Arabian Grand Prix,RUS,20
+2024,Saudi Arabian Grand Prix,BOT,13
+2025,Saudi Arabian Grand Prix,BOR,13
+2025,Saudi Arabian Grand Prix,GAS,16
+2025,Saudi Arabian Grand Prix,LAW,16
+2025,Saudi Arabian Grand Prix,VER,12
+2024,Saudi Arabian Grand Prix,HUL,24
+2025,Saudi Arabian Grand Prix,ALB,23
+2025,Azerbaijan Grand Prix,NOR,3
+2024,Azerbaijan Grand Prix,STR,5
+2024,Azerbaijan Grand Prix,NOR,14
+2025,Azerbaijan Grand Prix,HAM,1
+2025,Azerbaijan Grand Prix,TSU,1
+2024,Azerbaijan Grand Prix,COL,3
+2024,Azerbaijan Grand Prix,LEC,5
+2024,Azerbaijan Grand Prix,RIC,11
+2025,Qatar Grand Prix,SAI,3
+2024,Qatar Grand Prix,ALB,1
+2025,Qatar Grand Prix,OCO,3
+2024,Qatar Grand Prix,SAI,1
+2024,Qatar Grand Prix,TSU,1
+2024,Qatar Grand Prix,BOT,1
+2024,Qatar Grand Prix,PIA,7
+2025,Qatar Grand Prix,TSU,7
+2025,Las Vegas Grand Prix,SAI,15
+2024,Las Vegas Grand Prix,PER,3
+2025,Las Vegas Grand Prix,VER,8
+2025,Las Vegas Grand Prix,COL,3
+2025,Las Vegas Grand Prix,SAI,3
+2025,Las Vegas Grand Prix,LAW,11
+2025,Las Vegas Grand Prix,NOR,3
+2024,Las Vegas Grand Prix,ZHO,15
+2025,British Grand Prix,OCO,13
+2024,British Grand Prix,STR,4
+2024,British Grand Prix,ZHO,14
+2025,British Grand Prix,OCO,14
+2024,British Grand Prix,HAM,8
+2024,British Grand Prix,ALO,13
+2025,British Grand Prix,BEA,7
+2024,British Grand Prix,LEC,14
+2024,Japanese Grand Prix,STR,6
+2025,Japanese Grand Prix,OCO,11
+2024,Japanese Grand Prix,HAM,8
+2024,Japanese Grand Prix,OCO,14
+2024,Japanese Grand Prix,ALO,11
+2025,Japanese Grand Prix,BEA,13
+2025,Japanese Grand Prix,SAI,8
+2024,Abu Dhabi Grand Prix,HUL,8
+2025,Abu Dhabi Grand Prix,HAD,14
+2024,Abu Dhabi Grand Prix,RUS,6
+2024,Abu Dhabi Grand Prix,VER,13
+2024,Abu Dhabi Grand Prix,NOR,13
+2025,Abu Dhabi Grand Prix,TSU,14
+2024,Abu Dhabi Grand Prix,LEC,9
+2024,Chinese Grand Prix,VER,9
+2025,Chinese Grand Prix,VER,6
+2024,Chinese Grand Prix,ALO,5
+2024,Chinese Grand Prix,MAG,9
+2025,Chinese Grand Prix,HUL,14
+2024,Chinese Grand Prix,RIC,12
+2024,Chinese Grand Prix,ALO,6
+2025,Hungarian Grand Prix,ALB,0
+2025,Hungarian Grand Prix,RUS,2
+2025,Hungarian Grand Prix,RUS,0
+2024,Hungarian Grand Prix,STR,0
+2024,Hungarian Grand Prix,MAG,2
+2025,Hungarian Grand Prix,ALO,9
+2025,Hungarian Grand Prix,RUS,8
+2025,Singapore Grand Prix,HAM,11
+2024,Singapore Grand Prix,STR,3
+2025,Singapore Grand Prix,LEC,16
+2025,Singapore Grand Prix,BEA,3
+2024,Singapore Grand Prix,ALB,11
+2025,Singapore Grand Prix,ALO,3
+2024,Singapore Grand Prix,PIA,3
+2025,Qatar Grand Prix,ANT,5
+2025,Qatar Grand Prix,RUS,5
+2024,Qatar Grand Prix,HAM,2
+2025,Qatar Grand Prix,ALO,2
+2025,Qatar Grand Prix,ALB,2
+2025,Qatar Grand Prix,GAS,2
+2025,Qatar Grand Prix,GAS,10
+2024,Abu Dhabi Grand Prix,NOR,10
+2025,Abu Dhabi Grand Prix,TSU,0
+2025,Abu Dhabi Grand Prix,ALB,2
+2025,Abu Dhabi Grand Prix,BEA,11
+2025,Abu Dhabi Grand Prix,ALO,0
+2025,Abu Dhabi Grand Prix,HAD,0
+2025,Abu Dhabi Grand Prix,HUL,1
+2025,Miami Grand Prix,TSU,9
+2025,Miami Grand Prix,LEC,9
+2024,Miami Grand Prix,STR,2
+2024,Miami Grand Prix,ALO,9
+2024,Miami Grand Prix,NOR,15
+2025,Miami Grand Prix,SAI,7
+2025,Miami Grand Prix,ALO,2
+2024,Spanish Grand Prix,SAR,3
+2025,Spanish Grand Prix,GAS,8
+2024,Spanish Grand Prix,LEC,2
+2024,Spanish Grand Prix,TSU,8
+2024,Spanish Grand Prix,ALB,8
+2025,Spanish Grand Prix,NOR,12
+2025,Spanish Grand Prix,COL,12
+2025,Spanish Grand Prix,SAI,1
+2025,Spanish Grand Prix,NOR,5
+2024,Spanish Grand Prix,NOR,5
+2024,Spanish Grand Prix,GAS,1
+2025,Spanish Grand Prix,OCO,11
+2025,Spanish Grand Prix,PIA,7
+2025,Spanish Grand Prix,NOR,7
+2024,Australian Grand Prix,RUS,4
+2025,Australian Grand Prix,STR,7
+2025,Australian Grand Prix,NOR,1
+2024,Australian Grand Prix,GAS,7
+2025,Australian Grand Prix,VER,7
+2025,Australian Grand Prix,SAI,9
+2025,Australian Grand Prix,NOR,9
+2024,Chinese Grand Prix,TSU,6
+2024,Chinese Grand Prix,ZHO,4
+2025,Chinese Grand Prix,SAI,3
+2024,Chinese Grand Prix,PIA,3
+2025,Chinese Grand Prix,HUL,6
+2024,Chinese Grand Prix,ALO,4
+2025,Chinese Grand Prix,LEC,11
+2025,Belgian Grand Prix,BEA,1
+2024,Belgian Grand Prix,VER,9
+2025,Belgian Grand Prix,ANT,5
+2025,Belgian Grand Prix,VER,1
+2024,Belgian Grand Prix,ALB,11
+2025,Belgian Grand Prix,ALO,11
+2025,Saudi Arabian Grand Prix,BEA,25
+2024,Saudi Arabian Grand Prix,OCO,25
+2025,Saudi Arabian Grand Prix,HAD,2
+2024,Saudi Arabian Grand Prix,BEA,2
+2024,Saudi Arabian Grand Prix,OCO,2
+2024,Saudi Arabian Grand Prix,OCO,11
+2025,Las Vegas Grand Prix,SAI,5
+2024,Las Vegas Grand Prix,TSU,4
+2025,Las Vegas Grand Prix,COL,1
+2025,Las Vegas Grand Prix,HAD,4
+2024,Las Vegas Grand Prix,TSU,10
+2025,Las Vegas Grand Prix,VER,5
+2024,Dutch Grand Prix,STR,4
+2025,Dutch Grand Prix,SAI,3
+2024,Dutch Grand Prix,ALO,4
+2025,Dutch Grand Prix,LAW,1
+2025,Dutch Grand Prix,HUL,1
+2024,Dutch Grand Prix,HUL,4
+2024,Hungarian Grand Prix,SAR,11
+2025,Hungarian Grand Prix,COL,11
+2025,Hungarian Grand Prix,ANT,11
+2024,Hungarian Grand Prix,RIC,11
+2025,Hungarian Grand Prix,LAW,1
+2024,Emilia Romagna Grand Prix,ALO,10
+2024,Emilia Romagna Grand Prix,LEC,16
+2024,Emilia Romagna Grand Prix,SAR,2
+2024,Emilia Romagna Grand Prix,LEC,4
+2025,Emilia Romagna Grand Prix,HAD,8
+2024,Abu Dhabi Grand Prix,TSU,4
+2025,Abu Dhabi Grand Prix,LAW,4
+2025,Abu Dhabi Grand Prix,LAW,3
+2024,Abu Dhabi Grand Prix,VER,4
+2024,Abu Dhabi Grand Prix,SAI,7
+2024,Monaco Grand Prix,HAM,16
+2024,Monaco Grand Prix,HAM,6
+2024,Monaco Grand Prix,GAS,6
+2024,Monaco Grand Prix,VER,16
+2025,Monaco Grand Prix,NOR,4
+2024,Bahrain Grand Prix,HAM,3
+2025,Bahrain Grand Prix,STR,11
+2025,Bahrain Grand Prix,NOR,6
+2025,Bahrain Grand Prix,LEC,6
+2024,Bahrain Grand Prix,HAM,11
+2024,São Paulo Grand Prix,TSU,6
+2025,São Paulo Grand Prix,VER,10
+2024,São Paulo Grand Prix,PIA,12
+2024,São Paulo Grand Prix,TSU,8
+2024,São Paulo Grand Prix,PER,8
+2025,United States Grand Prix,RUS,9
+2024,United States Grand Prix,ZHO,9
+2024,United States Grand Prix,VER,10
+2025,United States Grand Prix,PIA,9
+2025,United States Grand Prix,BOR,17
+2024,Australian Grand Prix,ZHO,8
+2025,Australian Grand Prix,DOO,6
+2024,Australian Grand Prix,STR,12
+2024,Australian Grand Prix,HAM,3
+2025,Australian Grand Prix,SAI,3
+2025,Mexico City Grand Prix,HAM,14
+2025,Mexico City Grand Prix,SAI,4
+2025,Mexico City Grand Prix,PIA,11
+2025,Mexico City Grand Prix,HAD,14
+2025,Mexico City Grand Prix,BOR,14
+2025,Saudi Arabian Grand Prix,HAD,20
+2024,Saudi Arabian Grand Prix,RIC,19
+2025,Saudi Arabian Grand Prix,ANT,18
+2025,Saudi Arabian Grand Prix,OCO,19
+2024,Saudi Arabian Grand Prix,BEA,16
+2025,Austrian Grand Prix,STR,8
+2025,Austrian Grand Prix,ANT,6
+2024,Austrian Grand Prix,HUL,8
+2025,Austrian Grand Prix,OCO,8
+2024,Austrian Grand Prix,HUL,3
+2025,Belgian Grand Prix,HAD,7
+2025,Belgian Grand Prix,NOR,12
+2025,Belgian Grand Prix,RUS,15
+2024,Belgian Grand Prix,VER,7
+2025,Belgian Grand Prix,OCO,7
+2025,São Paulo Grand Prix,TSU,10
+2025,São Paulo Grand Prix,LEC,2
+2024,São Paulo Grand Prix,ALB,4
+2024,São Paulo Grand Prix,LEC,4
+2024,São Paulo Grand Prix,VER,13
+2025,Azerbaijan Grand Prix,SAI,9
+2024,Azerbaijan Grand Prix,SAI,17
+2025,Azerbaijan Grand Prix,ANT,18
+2025,Azerbaijan Grand Prix,STR,18
+2024,Japanese Grand Prix,TSU,5
+2025,Japanese Grand Prix,SAI,14
+2024,Japanese Grand Prix,MAG,1
+2024,Japanese Grand Prix,MAG,5
+2024,Singapore Grand Prix,HAM,1
+2024,Singapore Grand Prix,MAG,9
+2025,Singapore Grand Prix,OCO,9
+2024,Singapore Grand Prix,COL,9
+2024,Monaco Grand Prix,VER,2
+2024,Monaco Grand Prix,NOR,11
+2025,Monaco Grand Prix,GAS,11
+2025,Monaco Grand Prix,OCO,17
+2025,Mexico City Grand Prix,OCO,2
+2024,Mexico City Grand Prix,BOT,2
+2025,Mexico City Grand Prix,ALB,10
+2025,Mexico City Grand Prix,ALB,2
+2025,Chinese Grand Prix,DOO,7
+2025,Chinese Grand Prix,VER,1
+2025,Chinese Grand Prix,DOO,1
+2025,Chinese Grand Prix,LEC,7
+2024,Canadian Grand Prix,SAR,4
+2024,Canadian Grand Prix,STR,3
+2024,Canadian Grand Prix,HAM,3
+2024,Mexico City Grand Prix,RUS,8
+2024,Mexico City Grand Prix,HUL,5
+2024,Mexico City Grand Prix,HUL,8
+2025,Australian Grand Prix,STR,3
+2024,Australian Grand Prix,VER,11
+2024,Australian Grand Prix,GAS,10
+2025,Dutch Grand Prix,HUL,9
+2025,Dutch Grand Prix,COL,9
+2024,Dutch Grand Prix,MAG,9
+2025,São Paulo Grand Prix,PIA,3
+2025,São Paulo Grand Prix,ALO,3
+2025,São Paulo Grand Prix,OCO,9
+2024,Miami Grand Prix,LEC,5
+2024,Miami Grand Prix,HUL,17
+2024,Miami Grand Prix,BOT,8
+2024,Spanish Grand Prix,SAI,4
+2025,Spanish Grand Prix,VER,10
+2024,Spanish Grand Prix,SAR,11
+2025,Singapore Grand Prix,HUL,7
+2025,Singapore Grand Prix,ALO,13
+2024,Singapore Grand Prix,RIC,13
+2024,São Paulo Grand Prix,TSU,1
+2024,São Paulo Grand Prix,VER,1
+2024,São Paulo Grand Prix,STR,7
+2025,British Grand Prix,COL,6
+2025,British Grand Prix,HAM,1
+2025,British Grand Prix,GAS,6
+2025,Azerbaijan Grand Prix,ALO,17
+2025,Azerbaijan Grand Prix,HAD,13
+2024,Azerbaijan Grand Prix,ALO,12
+2025,Bahrain Grand Prix,GAS,8
+2024,Bahrain Grand Prix,MAG,4
+2025,Bahrain Grand Prix,ALO,1
+2024,Las Vegas Grand Prix,RUS,1
+2025,Las Vegas Grand Prix,VER,10
+2024,Las Vegas Grand Prix,RUS,7
+2024,Qatar Grand Prix,LAW,12
+2024,Qatar Grand Prix,STR,11
+2024,Chinese Grand Prix,ZHO,0
+2025,Chinese Grand Prix,LEC,0
+2025,Miami Grand Prix,PIA,14
+2024,Miami Grand Prix,ZHO,12
+2025,Dutch Grand Prix,LEC,12
+2025,Dutch Grand Prix,VER,12
+2025,Austrian Grand Prix,LAW,5
+2025,Austrian Grand Prix,COL,5
+2024,Monaco Grand Prix,RUS,8
+2025,Monaco Grand Prix,SAI,8
+2024,United States Grand Prix,ALB,0
+2024,United States Grand Prix,NOR,0
+2024,Italian Grand Prix,COL,8
+2025,Italian Grand Prix,PIA,8
+2025,British Grand Prix,BOR,5
+2025,British Grand Prix,BOR,2
+2024,Abu Dhabi Grand Prix,MAG,1
+2025,Abu Dhabi Grand Prix,ALO,9
+2025,Japanese Grand Prix,HAD,16
+2025,Japanese Grand Prix,DOO,16
+2025,Italian Grand Prix,GAS,5
+2024,Italian Grand Prix,COL,5
+2024,Abu Dhabi Grand Prix,PER,12
+2024,Abu Dhabi Grand Prix,HUL,6
+2025,Spanish Grand Prix,NOR,9
+2024,Spanish Grand Prix,ZHO,11
+2025,Mexico City Grand Prix,TSU,7
+2024,Las Vegas Grand Prix,HAM,2
+2024,Hungarian Grand Prix,MAG,13
+2025,Japanese Grand Prix,HUL,2
+2024,Australian Grand Prix,TSU,6
+2025,Miami Grand Prix,GAS,8
+2024,United States Grand Prix,VER,5
+2025,Belgian Grand Prix,VER,13
+2025,Austrian Grand Prix,RUS,8
