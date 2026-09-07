@@ -1,0 +1,12 @@
+# Pin these. Community Cloud rebuilds on every push and an unpinned sklearn
+# will refuse to unpickle models trained on a different minor version.
+streamlit==1.50.0
+numpy==2.3.3
+pandas==2.3.2
+pyarrow==21.0.0
+plotly==6.3.0
+scikit-learn==1.8.0
+joblib==1.5.2
+
+# Only needed if you arm the local single-sector solve.
+# casadi==3.7.2
